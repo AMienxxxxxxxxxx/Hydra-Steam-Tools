@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://cdn.onyxaxdb.xyz/HydraSteamTools/HydraSteamTools-v2.8.1-Setup.exe">
+  <a href="https://cdn.onyxaxdb.xyz/HydraSteamTools/HydraSteamTools-v2.8.2-Setup.exe">
     <img src="https://img.shields.io/badge/Download-v2.8.1-7c9a82?style=for-the-badge&logo=windows&logoColor=white" alt="Download">
   </a>
   <img src="https://img.shields.io/badge/Platform-Windows%2010%2F11-0078d4?style=for-the-badge&logo=windows&logoColor=white" alt="Platform">
@@ -41,7 +41,7 @@ HydraSteamTools is a lightweight desktop application that gives you full control
 Download the latest installer:
 
 ```
-https://cdn.onyxaxdb.xyz/HydraSteamTools/HydraSteamTools-v2.8.1-Setup.exe
+https://cdn.onyxaxdb.xyz/HydraSteamTools/HydraSteamTools-v2.8.2-Setup.exe
 ```
 
 Run the installer and follow the setup wizard. The app will create desktop and Start Menu shortcuts automatically.
