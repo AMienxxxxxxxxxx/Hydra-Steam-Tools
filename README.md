@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://cdn.onyxaxdb.xyz/HydraSteamTools/HydraSteamTools-v2.8.4-Setup.exe">
-    <img src="https://img.shields.io/badge/Download-v2.8.3-7c9a82?style=for-the-badge&logo=windows&logoColor=white" alt="Download">
+    <img src="https://img.shields.io/badge/Download-v2.8.4-7c9a82?style=for-the-badge&logo=windows&logoColor=white" alt="Download">
   </a>
   <img src="https://img.shields.io/badge/Platform-Windows%2010%2F11-0078d4?style=for-the-badge&logo=windows&logoColor=white" alt="Platform">
   <a href="https://discord.gg/3YZmrZUP8e">
